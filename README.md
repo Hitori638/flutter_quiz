@@ -35,5 +35,9 @@ Test overuje zmiešané skóre, postup otázkami, reštart a následné plné sk
 ## Odovzdanie
 
 ZIP `quiz_app_sources.zip` obsahuje lib/ a pubspec.yaml.
-Screenshoty z Android emulátora patria do `screenshots/`.
+Screenshoty z Android emulátora sú v `screenshots/` (start.png, questions.png, results.png).
 Projekt je potrebné nahrať do vlastného GitHub/GitLab/Bitbucket repozitára a odovzdať jeho URL.
+
+## Emulátor na tomto počítači
+
+Po reštarte bol úspešne overený Medium Phone s hardvérovou grafikou (`hw.gpu.mode=host`) a štartom bez načítania snapshotu. Predtým emulátor 37.1.11 padal pred spustením aplikácie pri softvérovej grafike. Presná príčina pádu nebola potvrdená.

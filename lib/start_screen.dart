@@ -24,7 +24,7 @@ class StartScreen extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         Text(
-          '${questions.length} otázok • jedna správna odpoveď',
+          '${questions.length} otázok',
           textAlign: TextAlign.center,
           style: const TextStyle(color: Colors.white70),
         ),

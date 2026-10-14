@@ -36,7 +36,7 @@ Test overuje zmiešané skóre, postup otázkami, reštart a následné plné sk
 
 ZIP `quiz_app_sources.zip` obsahuje lib/ a pubspec.yaml.
 Screenshoty z Android emulátora sú v `screenshots/` (start.png, questions.png, results.png).
-Projekt je potrebné nahrať do vlastného GitHub/GitLab/Bitbucket repozitára a odovzdať jeho URL.
+Git repozitár: https://github.com/Hitori638/flutter_quiz
 
 ## Emulátor na tomto počítači
 
